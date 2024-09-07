@@ -21,30 +21,6 @@ Check out the live demo of the project [here](https://codepen.io/Tushita-Gupta/p
 - **JavaScript**: Core logic for sentiment detection and tooltip functionality.
 - **CSS**: Custom styling for sentiment highlights and tooltips.
 
-## Installation
-
-To run this project locally:
-
-1. Clone the repository:
-    ```bash
-    git clone https://github.com/yourusername/review-sentiment-analysis.git
-    ```
-
-2. Navigate to the project folder:
-    ```bash
-    cd review-sentiment-analysis
-    ```
-
-3. Install dependencies:
-    ```bash
-    npm install
-    ```
-
-4. Start the development server:
-    ```bash
-    npm start
-    ```
-
 ## Usage
 
 - Enter a review into the input field.
