@@ -1,7 +1,3 @@
-Here’s a `README.md` for your **Review Sentiment Analysis** React project:
-
----
-
 # Review Sentiment Analysis
 
 A React-based application designed to analyze the sentiment of textual reviews, highlighting them as positive, negative, neutral, or mixed. This project includes enhanced user experience features like tooltips, which display topics associated with each sentiment highlight for improved contextual understanding.
